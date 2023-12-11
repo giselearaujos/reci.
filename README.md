@@ -1,5 +1,5 @@
 <h1 align="center">
-Inovação e Tecnologia Moldando o Futuro da Saúde: Prevenção, Automação e Precisão
+Plataforma ESG
 </h1>
 
 <p align="center">
@@ -7,8 +7,7 @@ Projeto desenvolvido a partir dos módulos estudados do curso Sistema para Inter
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -18,24 +17,16 @@ Projeto desenvolvido a partir dos módulos estudados do curso Sistema para Inter
 
 <br>
 
+<p align="center">
+  <img alt="Imagem do protótipo do app" src="./assets/print.png" width="100%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
-
-## 🔖 Objetivo
-O SincroSmart resolve um problema recorrente ao decifrar prescrições médicas ilegíveis, garantindo que farmacêuticos, enfermeiros e demais profissionais de saúde compreendam corretamente as instruções médicas.
-
-Acessibilidade para Todos:
-Facilita a comunicação para pessoas com dislexia, analfabetismo ou deficiências na fala, garantindo que todos possam entender e comunicar efetivamente suas necessidades de saúde.
-
-Prevenção de Erros Medicamentosos:
-Previne situações perigosas, como o caso do nosso fundador, ao fornecer informações claras sobre a medicação prescrita, evitando erros que podem ter consequências graves.
-
-Objetivo do App:
-Democratizar o acesso à informação sobre medicamentos, promovendo a compreensão das prescrições médicas e capacitando os usuários a tomar decisões informadas sobre sua saúde.
 
 ## :memo: Licença
 
